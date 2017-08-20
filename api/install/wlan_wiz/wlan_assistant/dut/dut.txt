@@ -1,0 +1,42 @@
+WA0001,Setup Wizard voor draadloze apparaten
+WA0002,1.02
+WA0101,Even geduld a.u.b...
+WA0201,Bevestiging van installatie
+WA0202,Tijdens de installatie worden de draadloze instellingen op uw computer of draadloze toegangspunt automatisch gedetecteerd. Voordat u het draadloze apparaat met een bedrijfsnetwerk verbindt, dient u eerst contact op te nemen met de netwerkbeheerder.
+WA0203,Merk op dat de Wizard tijdelijk uw verbinding met het draadloze netwerk zal onderbreken zodat het verbinding kan maken met uw apparaat.  Op dat moment wordt u afgesloten van alle netwerkdiensten, inclusief het internet.
+WA0204,Gecontroleerd en bevestigd
+WA0301,Bestaande instellingen voor draadloos netwerk op uw computer detecteren
+WA0302,De instellingen voor draadloos netwerk op uw computer of draadloze toegangspunt zijn gedetecteerd.
+WA0303,De naam van het gedetecteerde draadloze netwerk (naam van draadloos toegangspunt/router):
+WA0304,SSID:
+WA0305,Wilt u het apparaat verbinding laten maken met dit draadloze netwerk?
+WA0306,Ja, ik wil het apparaat aan dit draadloze netwerk koppelen.
+WA0307,Nee, ik wil het apparaat aan een ander draadloos netwerk koppelen.
+WA0401,Draadloos inschakelen
+WA0402,U dient nu met het bedieningspaneel draadloos netwerken in te schakelen op het apparaat. Er zou een ander venster moeten openen met nadere details over hoe dit moet.
+WA0403,Wanneer u draadloos netwerken inschakelt op het apparaat, gaat de Wizard automatisch verder met de installatie.
+WA0404,(*) Als het venster "Netwerklocatie instellen" verschijnt, klik dan op "Annuleren".
+WA0501,Instellingen versturen... Even geduld a.u.b...
+WA0601,Controleer het resultaat van de verbinding van "Draadloze installatie"
+WA0602,De pagina "WLAN Report" wordt afgedrukt op het apparaat. Zoek <Connection> op de pagina en controleer de beschrijving om het resultaat van het verbinden te bevestigen.
+WA0603,* Dit afdrukken kan 2 minuten duren.
+WA0604,Selecteer het resultaat in de lijst met selecties hieronder en klik op "Volgende".
+WA0605,"Connection : OK"
+WA0606,"Connection : Failed"
+WA4001,Installatie afsluiten
+WA4002,Installatie is niet voltooid.
+WA4003,Als u dit installatieprogramma afsluit, is het draadloze apparaat niet geconfigureerd.
+WA4004,Wilt u doorgaan met het installatieprogramma, klik dan op "Doorgaan".
+WA4005,Wilt u het installatieprogramma afsluiten, klik dan op "Afsluiten".
+WA5001,Kon apparaat niet vinden
+WA5002,Wilt u het nog eens proberen met hetzelfde installatieproces of wilt u iets anders proberen?
+WA5003,Opnieuw
+WA5004,Wanneer u hetzelfde installatieproces nog eens probeert, raden wij u aan om tijdelijk alle beveiligingssoftware uit te schakelen die het proces zou kunnen blokkeren, zoals firewalls.
+WA5005,Iets anders proberen
+WA5101,Kon geen verbinding maken
+WA5102,Het installatieprogramma biedt u enkele opties om een andere verbindingsmethode te proberen.  Klik op "Volgende" om door te gaan.
+WA9901,< Terug
+WA9902,Annuleren
+WA9903,Volgende >
+WA9904,Afsluiten
+WA9905,Doorgaan

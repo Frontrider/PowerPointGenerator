@@ -1,0 +1,42 @@
+WA0001,Impostazione guidata periferica wireless
+WA0002,1.01
+WA0101,Attendere prego...
+WA0201,Conferma installazione
+WA0202,Durante l'installazione, le impostazioni wireless sul computer o sul punto di accesso wireless saranno rilevate automaticamente. Prima di connettere la periferica wireless a una rete aziendale, confermare con l'amministratore di rete.
+WA0203,La procedura guidata scollegherà temporaneamente l'utente dalla rete wireless, in modo da potersi connettere alla periferica.  Durante tale periodo, si sarà disconnessi da tutti i servizi di rete, compreso Internet.
+WA0204,Controllato e Confermato
+WA0301,Rilevamento impostazioni di rete wireless esistenti sul computer
+WA0302,Le impostazioni di rete wireless del computer o del punto di accesso wireless sono state rilevate.
+WA0303,Nome della rete wireless rilevata (nome Punto di accesso/Router wireless):
+WA0304,SSID:
+WA0305,Connettere la periferica a questa rete wireless?
+WA0306,Sì, desidero connettere la periferica a questa rete wireless.
+WA0307,No, desidero connettere la periferica ad un'altra rete wireless.
+WA0401,Attiva wireless
+WA0402,Ora si dovrebbe poter attivare il networking wireless sul dispositivo usando il pannello di controllo. Dovrebbe aprirsi un'altra finestra con ulteriori dettagli su come eseguire questa operazione.
+WA0403,Quando si abilita il neworking wireless sulla periferica, questa procedura guidata continuerà automaticamente la configurazione.
+WA0404,(*) Se appare la schermata "Imposta posizione di rete", fare clic su "Annulla".
+WA0501,Invio impostazioni... Attendere...
+WA0601,Controllare il risultato della connessione della "Configurazione wireless"
+WA0602,Il "WLAN Report" sarà stampato dalla periferica. Individuare <Connection> sulla paginae verificare la descrizione per confermare il risultato della connessione.
+WA0603,* Per questa stampa possono essere necessari fino a 2 minuti.
+WA0604,Selezionare il risultato dall'elenco delle selezioni di seguito e fare clic su "Avanti"
+WA0605,"Connection : OK"
+WA0606,"Connection : Failed"
+WA4001,Esci dall'installazione
+WA4002,Installazione non completata.
+WA4003,Se si esce da questo programma di installazione, il dispositivo wireless non sarà configurato.
+WA4004,Per continuare questo programma di installazione, fare clic su "Riprendi".
+WA4005,Per uscire dal programma di installazione, fare clic su "Esci".
+WA5001,Impossibile trovare la periferica
+WA5002,Riprovare di nuovo a usare la stessa procedura di configurazione o provare qualcos'altro?
+WA5003,Riprova
+WA5004,Se si desidera riprovare la stessa procedura di configurazione, si raccomanda di disabilitare temporaneamente tutti i software di sicurezza, come il firewall, che potrebbero bloccarla.
+WA5005,Prova altro
+WA5101,Imposs. collegarsi
+WA5102,Il programma di installazione visualizzerà delle opzioni per provare un altro metodo di connessione.  Fare clic su "Avanti" per procedere.
+WA9901,< Indietro
+WA9902,Annulla
+WA9903,Avanti >
+WA9904,Esci
+WA9905,Riprendi

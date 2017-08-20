@@ -1,0 +1,42 @@
+WA0001,Assistente de configuração de dispositivos de rede sem fios
+WA0002,1.03
+WA0101,Aguarde...
+WA0201,Confirmação de instalação
+WA0202,Durante a instalação, as definições de ligação sem fios no seu computador ou ponto de acesso sem fios serão detetadas automaticamente. Antes de ligar o dispositivo sem fios a uma rede empresarial, confirme-as junto do administrador de rede.
+WA0203,Tenha presente que o assistente desativará temporariamente a sua ligação à rede sem fios, para que possa realizar a ligação do seu dispositivo.  Durante este tempo, todos os seus serviços de rede estarão desativados, incluindo a Internet.
+WA0204,Verificado e confirmado
+WA0301,Detetar as definições de rede sem fios existentes no seu computador
+WA0302,As definições de rede sem fios do seu computador ou ponto de acesso sem fios foram detetadas.
+WA0303,O nome da rede sem fios detetada (Nome do ponto de acesso/router sem fios):
+WA0304,SSID:
+WA0305,Pretende efetuar a ligação deste dispositivo a esta rede sem fios?
+WA0306,Sim, pretendo efetuar a ligação deste dispositivo a esta rede sem fios.
+WA0307,Não, não pretendo efetuar a ligação deste dispositivo a esta rede sem fios.
+WA0401,Ativar ligações sem fios
+WA0402,Deverá ativar agora a rede sem fios no dispositivo através do painel de controlo. Deverá abrir-se outra janela com detalhes adicionais sobre a forma de fazê-lo.
+WA0403,Quando ativa a rede sem fios no dispositivo, este assistente continuará automaticamente a execução da configuração.
+WA0404,(*) Se surgir o ecrã "Definir Localização de Rede", clique em "Cancelar".
+WA0501,A enviar definições......Aguarde...
+WA0601,Verifique o resultado da ligação da "Configuração da Ligação Sem Fios"
+WA0602,A página do "WLAN Report" será impressa pelo dispositivo. Procure a <Connection> na página e verifique a descrição para confirmar o resultado da ligação.
+WA0603,* Esta impressão poderá demorar até 2 minutos.
+WA0604,Selecione o resultado a partir da lista de seleções em baixo e clique em "Seguinte".
+WA0605,"Connection : OK"
+WA0606,"Connection : Failed"
+WA4001,Sair da Configuração
+WA4002,A configuração não foi concluída.
+WA4003,Se abandonar este programa de configuração, o dispositivo sem fios não será configurado.
+WA4004,Para continuar o programa de configuração, clique em "Continuar".
+WA4005,Para abandonar este programa de configuração, clique em "Sair".
+WA5001,Falha na deteção do dispositivo
+WA5002,Pretende tentar de novo utilizando o mesmo processo de configuração ou tentar outro método?
+WA5003,Repetir
+WA5004,Se pretende tentar de novo o mesmo processo de configuração, recomendamos que tente desativar temporariamente qualquer aplicação de segurança, tal como firewall, que possa estar a bloqueá-la.
+WA5005,Tentar outro procedimento
+WA5101,Falha na ligação
+WA5102,O instalador apresentar-lhe-á algumas opções para tentar outro método de ligação.  Clique em “Seguinte” para prosseguir.
+WA9901,< Anterior
+WA9902,Cancelar
+WA9903,Seguinte >
+WA9904,Sair
+WA9905,Continuar

@@ -1,0 +1,10 @@
+[DSIInfo]
+DSM_Signature=BRDSM110
+SeriesSettingFile=BROFX13A.DSI
+LanguageInfo=0
+[DriverInfo]
+FaxCommandLanguage=2
+[FileList]
+Init=BRDFXA3.DAT
+[Capability]
+PaperSize=ISOA4,NorthAmericaLetter,NorthAmericaLegal,ISOA3,JISB4,NorthAmericaTabloid

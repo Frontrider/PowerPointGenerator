@@ -1,0 +1,42 @@
+WA0001,Assistant de configuration de la connexion sans fil
+WA0002,1.01
+WA0101,Patientez S.V.P...
+WA0201,Confirmation de l’installation
+WA0202,Pendant l’installation, les paramètres sans fil de votre ordinateur du point d’accès sans fil seront automatiquement détectés. Vérifiez auprès de l’administrateur réseau avant de connecter le périphérique sans fil à un réseau d’entreprise.
+WA0203,Veuillez noter que l’assistant vous déconnectera provisoirement de votre réseau sans fil pour vous pouvoir se connecter à votre périphérique.  Pendant ce temps, vous serez déconnecté de tous les services réseau, Internet compris.
+WA0204,Vérifié et confirmé
+WA0301,Détection en cours des paramètres de réseau sans fil existant sur votre ordinateur
+WA0302,Les paramètres de réseau sans fil de votre ordinateur ou de votre point d’accès sans fil ont été détectés.
+WA0303,Nom du réseau sans fil détecté (nom du point d'accès/routeur sans fil) :
+WA0304,SSID :
+WA0305,Voulez-vous connecter le périphérique à ce réseau sans fil ?
+WA0306,Oui, je veux connecter le périphérique à ce réseau sans fil.
+WA0307,Non, je veux connecter le périphérique à un autre réseau sans fil.
+WA0401,Activer le sans fil
+WA0402,Vous devez à présent activer le réseau sans fil sur le périphérique à l’aide de son panneau de contrôle. Une autre fenêtre devrait s’afficher avec des explications détaillées sur comment faire pour cela.
+WA0403,Lorsque vous activez le réseau sans fil sur le périphérique, cet assistant poursuivra automatiquement la configuration.
+WA0404,(*) Si l’écran Définir l’emplacement du réseau apparaît, cliquez sur Annuler.
+WA0501,Soumission en cours des paramètres... Merci de patienter...
+WA0601,Vérifiez le résultat de la connexion de la configuration sans fil.
+WA0602,Le "WLAN Report" sera imprimé par votre périphérique. Recherchez <Connection> dans la page et vérifiez que la description confirme bien le résultat de la connexion.
+WA0603,* L’impression peut mettre jusqu’à deux minutes.
+WA0604,Sélectionnez le résultat dans la liste des sélections ci-dessous et cliquez sur Suivant.
+WA0605,"Connection : OK"
+WA0606,"Connection : Failed"
+WA4001,Quitter le programme d'installation
+WA4002,La configuration est maintenant terminée.
+WA4003,Si vous quittez ce programme, le périphérique sans fil ne sera pas configuré.
+WA4004,Pour poursuivre ce programme, cliquez sur Reprendre.
+WA4005,Pour quitter ce programme, cliquez sur Quitter.
+WA5001,Périphérique introuvable.
+WA5002,Voulez-vous refaire une tentative en utilisant le même processus de configuration ou voulez-vous tenter quelque chose d’autre ?
+WA5003,Réessayer
+WA5004,Si vous voulez réessayer le même processus de configuration, nous vous recommandons de désactiver provisoirement tous les logiciels de sécurité, de type pare-feu, qui risquent d’entraver la configuration.
+WA5005,Essayer quelque chose d’autre
+WA5101,Échec de la connexion
+WA5102,Le programme d'installation va vous proposer quelques choix de méthodes de connexion.  Cliquez sur Suivant pour continuer.
+WA9901,< Précédent
+WA9902,Annuler
+WA9903,Suivant >
+WA9904,Quitter
+WA9905,Reprendre

@@ -1,0 +1,42 @@
+WA0001,Wireless Setup-Assistent
+WA0002,1.01
+WA0101,Bitte warten ...
+WA0201,Installationsbestätigung
+WA0202,Während der Installation werden die Wireless-Einstellungen auf Ihrem Computer oder dem Wireless Access Point automatisch erkannt. Holen Sie die Bestätigung vom Netzwerkadministrator ein, bevor Sie das Wireless-Gerät mit einem Firmennetzwerk verbinden.
+WA0203,Bitte beachten Sie, dass Sie vom Assistenten vorübergehend von Ihrem Wireless-Netzwerk getrennt werden, damit dieser sich mit ihrem Gerät verbinden kann.  In dieser Zeit werden Sie von allen Netzwerkservices getrennt, auch vom Internet.
+WA0204,Überprüft und bestätigt
+WA0301,Bestehende Wireless-Netzwerk-Einstellungen auf Ihrem Computer werden erkannt
+WA0302,Die Wireless-Netzwerk-Einstellungen Ihres Computers oder Wireless Access Point wurden erkannt.
+WA0303,Name des erkannten Wireless-Netzwerks (Name des Wireless Access Point / Router):
+WA0304,SSID:
+WA0305,Möchten Sie das Gerät mit diesem Wireless-Netzwerk verbinden?
+WA0306,Ja, ich möchte das Gerät mit diesem Wireless-Netzwerk verbinden.
+WA0307,Nein, ich möchte das Gerät mit einem anderen Wireless-Netzwerk verbinden.
+WA0401,Wireless aktivieren
+WA0402,Aktivieren Sie jetzt die Funktion für das Wireless-Netzwerk auf dem Gerät mithilfe des Funktionstastenfelds. Es wird ein weiteres Fenster geöffnet, in dem Sie weitere Anweisungen dazu erhalten.
+WA0403,Wenn Sie die Funktion für das Wireless-Netzwerk auf dem Gerät aktivieren, setzt der Assistent automatisch die Einrichtung fort.
+WA0404,(*) Wird der Bildschirm „Netzwerkstandort festlegen“ angezeigt, klicken Sie auf „Abbrechen“.
+WA0501,Einstellungen werden übernommen......Bitte warten ......
+WA0601,Überprüfen Sie das Verbindungsergebnis der „Wireless-Einrichtung“
+WA0602,Das Gerät druckt die Seite „WLAN Report“. Suchen Sie auf der Seite <Connection> und prüfen Sie die Beschreibung, um das Ergebnis der Verbindung zu bestätigen.
+WA0603,* Das Drucken der Seite kann bis zu 2 Minuten in Anspruch nehmen.
+WA0604,Wählen Sie das Ergebnis aus der Liste der Auswahlmöglichkeiten aus und klicken Sie auf „Weiter“.
+WA0605,"Connection : OK"
+WA0606,"Connection : Failed"
+WA4001,Einrichtung beenden
+WA4002,Die Einrichtung ist nicht abgeschlossen.
+WA4003,Wenn Sie dieses Einrichtungsprogramm beenden, wird das Wireless-Gerät nicht konfiguriert.
+WA4004,Klicken Sie auf „Fortsetzen“, um dieses Einrichtungsprogramm fortzusetzen.
+WA4005,Klicken Sie auf „Beenden“, um dieses Einrichtungsprogramm zu beenden.
+WA5001,Das Gerät wurde nicht gefunden
+WA5002,Möchten Sie diesen Einrichtungsprozess wiederholen oder eine andere Möglichkeit ausprobieren?
+WA5003,Wiederholen
+WA5004,Wenn Sie diesen Einrichtungsprozess wiederholen möchten, deaktivieren Sie jegliche Sicherheitssoftware, wie z. B. eine Firewall, die den Prozess blockieren könnte, vorübergehend.
+WA5005,Eine andere Möglichkeit ausprobieren
+WA5101,Verbindung fehlgeschlagen
+WA5102,Über das Installationsprogramm erhalten Sie Optionen für weitere Methoden.  Klicken Sie auf „Weiter“, um fortzufahren.
+WA9901,< Zurück
+WA9902,Abbrechen
+WA9903,Weiter >
+WA9904,Beenden
+WA9905,Fortsetzen

@@ -1,0 +1,160 @@
+WS01000010,Impostazione guidata periferica wireless
+WS01000040,2.02
+WS02010010,Pagina iniziale
+WS02010020,Impostazione guidata wireless
+WS04000010,Configurazione indirizzo IP
+WS04000020,Configurare l'indirizzo IP della periferica wireless
+WS04000030,Ottieni automaticamente indirizzo IP.
+WS04000050,Imposta indirizzo IP statico
+WS04000060,Indirizzo IP
+WS04000070,Subnet mask
+WS04000080,Gateway
+WS05020010,Nome rete wireless
+WS05020020,Configurare il nome della rete wireless a cui la periferica verrà associata.
+WS05020030,Nome (SSID)
+WS05020040,Questa è una rete Ad-hoc e non è presente alcun punto di accesso.
+WS05020060,Canale
+WS05030010,Ricerca di reti wireless in corso...
+WS05040010,Reti wireless disponibili
+WS05040020,Selezionare l'SSID precedentemente controllato.
+WS05040040,Nome (SSID)
+WS05040050,Canale
+WS05040060,Modalità wireless
+WS05040070,Segnale
+WS05040080,Punto di accesso / Stazione base
+WS05040090,Rete Ad-hoc
+WS05040100,Se l'SSID (identificazione del punto di accesso wireless) non compare in questa lista, o se é nascosto, potrebbe essere comunque possibile configurarlo facendo clic sul pulsante 'Avanzate'.
+WS05040110,802.11b/g (11 Mbps/54 Mbps)
+WS05040120,802.11b (11 Mbps)
+WS05040130,802.11g (54 Mbps)
+WS05040140,802.11b/g/n
+WS05040150,802.11n
+WS05060010,ATTENZIONE.
+WS05060020,Questa rete wireless non è protetta. Non vengono utilizzate autenticazione e crittografia protette.
+WS05060030,Continuare l'impostazione?
+WS05060040,Nome (SSID):
+WS06000010,Metodo di autenticazione e modalità di crittografia
+WS06000020,Configurare il metodo di autenticazione e la modalità di crittografia
+WS06000030,Metodo autenticazione
+WS06000040,Modalità di crittografia
+WS06000050,Chiave di rete
+WS06000070,Nome (SSID):
+WS06000080,Metodo di autenticazione interna
+WS07000010,Conferma impostazioni rete wireless
+WS07000020,Fare clic su "Avanti" per inviare le seguenti impostazioni alla periferica.
+WS07000060,Modalità di comunicazione
+WS07000070,Infrastruttura
+WS07000080,Ad-hoc
+WS07000090,Nome (SSID)
+WS07000150,Auto
+WS07000190,Indirizzo IP
+WS07000200,Subnet mask
+WS07000210,Gateway
+WS07000220,Canale
+WS07000230,Metodo di autenticazione
+WS07000240,Modalità di crittografia
+WS07000270,Cambia indirizzo IP
+WS07000280,Metodo di autenticazione interna
+WS08010010,Invio impostazioni in corso... Attendere.
+WS21000010,Autenticazione utente
+WS21000020,Configurare il metodo di autenticazione e la modalità di crittografia
+WS21000030,Nome (SSID):
+WS21000040,Autenticazione utente
+WS21000050,ID utente
+WS21000060,Password utente
+WS43000000,Configurazione chiave di rete
+WS43000010,Immettere la chiave di protezione rete verificata precedentemente.
+WS43000020,Verrà automaticamente rilevato il tipo di autenticazione e di crittografia della rete wireless. È sufficiente immettere la chiave di rete.
+WS44000010,Configurazione del certificato
+WS44000020,Configurare la verifica del certificato client e del certificato server.
+WS44000030,Nome (SSID):
+WS44000040,Certificato client
+WS44000050,Verifica del certificato server
+WS44000051,Nessuna verifica
+WS44000052,Cert. CA
+WS44000053,Cert. CA + ID server
+WS44000060,ID server
+WS46000010,Connessione alla rete non riuscita.
+WS46000020,Conferma quanto segue e fare clic su Riprova.
+WS46000230,Impossibile rilevare router/access point wireless.(TS-02)
+WS46000240,Provare quanto segue:
+WS46000250,- Verificare di aver selezionato l'SSID corretto (nome rete) e di aver immesso la chiave di rete corretta
+WS46000260,- Verificare che il router/l'access point wireless non utilizzi impostazioni di sicurezza aggiuntive, come il filtraggio dell'indirizzo MAC
+WS46000270,- Provare a spostare la periferica più vicina al router/all'access point wireless.  Una volta effettuata la connessione alla rete, si dovrebbe essere in grado di tornare alla posizione precedente
+WS46000280,Indirizzo MAC:
+WS46000330,Impossibile connettere la periferica più vicina al router/all'access point wireless.(TS-03)
+WS46000340,- Verificare di aver selezionato l'SSID corretto (nome rete) e di aver immesso la chiave di rete corretta
+WS46000350,- Se non si conoscono queste informazioni, fare riferimento alla documentazione del produttore o fornitore del router/dell'access point wireless
+WS46000430,Metodo di crittografia/autenticazione non supportato rilevato sul router/sull'access point wireless.(TS-04)
+WS46000440,- Il router/l'access point wireless sta usando un metodo di crittografia/autenticazione non supportato dalla periferica. Verificare di aver selezionato l'SSID corretto (nome rete)
+WS46000530,L'SSID specificato e la chiave di rete non sono corretti.(TS-05)
+WS46000540,- Verificare di aver selezionato l'SSID corretto (nome rete) e di aver immesso la chiave di rete corretta
+WS46000630,Le informazioni di sicurezza wireless specificate non sono corrette.(TS-06)
+WS46000640,- Verificare il metodo di crittografia/autenticazione selezionato e assicurarsi di aver inserito la chiave di rete corretta
+WS50000010,Conferma dell'installazione
+WS50000020,Durante l'installazione, le impostazioni wireless del computer o del punto di accesso wireless saranno rilevate automaticamente. Prima di collegare la periferica wireless ad una rete aziendale, chiedere conferma all'amministratore di rete.
+WS50000030,Controllato e confermato
+WS51000010,Rilevazione delle impostazioni di rete wireless esistenti sul computer
+WS51000020,Le impostazioni di rete wireless del computer o del punto di accesso wireless sono state rilevate.
+WS51000030,Il nome della rete wireless è stato rilevato (nome punto di accesso wireless/router):
+WS51000040,SSID:
+WS51000050,Connettersi alla rete wireless usando queste impostazioni?
+WS51000060,Sì
+WS51000070,No
+WS98050010,Chiave di rete non valida
+WS98050020,(Chiave WEP ASCII)
+WS98050030,Informazioni sulla chiave WEP non immesse correttamente.
+WS98050040,WEP 64(40) bit: "Salve"
+WS98050050,WEP 128(104) bit: "ComunicSzfili"
+WS98050060,Immettere 5 o 13 caratteri di testo. Ad esempio:
+WS98060010,Chiave di rete non valida
+WS98060020,(Chiave WEP esadecimale)
+WS98060030,Informazioni sulla chiave WEP non immesse correttamente.
+WS98060040,Immettere 10 o 26 caratteri di dati esadecimali. Ad esempio:
+WS98060050,WEP 64(40) bit: "71f2234aba"
+WS98060060,WEP 128(104) bit: "71f2234ab56cd709e5412aa3ba"
+WS98070010,Chiudi impostazione
+WS98070020,L'impostazione non è completa.
+WS98070030,Se si esce dal programma di impostazione, la periferica wireless non verrà configurata.
+WS98070040,Per continuare il programma di impostazione, fare clic su "Riprendi".
+WS98070050,Per uscire dal programma di impostazione, fare clic su "Esci".
+WS98100010,Chiave di rete non valida
+WS98100020,La frase di accesso è una stringa ASCII di 8-63 caratteri.
+WS98150010,Chiave di rete non valida
+WS98150020,La chiave di rete non è stata immessa correttamente.Immettere 5 o da 8 a 63 caratteri a seconda del metodo di protezione.
+WS98150030,Per ulteriori informazioni, consultare la Guida.
+WS98160010,Errore di connessione USB
+WS98160020,Verificare che il cavo USB sia collegato al dispositivo.
+WS98160030,Verificare che il dispositivo sia acceso.
+WS99010010,OK
+WS99010020,Annulla
+WS99010030,Esci
+WS99010040,< Indietro
+WS99010050,Avanti >
+WS99010060,Guida
+WS99010070,Aggiorna
+WS99010090,Riprendi
+WS99010100,Avanzate
+WS99010130,Dove si trova l'SSID?
+WS99010140,Dove si trova la chiave di rete?
+WS99010150,Riprova >
+WS99020100,Sistema aperto
+WS99020110,Chiave condivisa
+WS99020120,WPA / WPA2-PSK
+WS99020160,LEAP
+WS99020170,EAP-FAST
+WS99020180,PEAP
+WS99020190,EAP-TTLS
+WS99020200,Nessuna
+WS99020210,WEP
+WS99020220,TKIP
+WS99020230,AES
+WS99020240,CKIP
+WS99020250,TKIP+AES
+WS99020500,EAP-TLS
+WS99030100,NONE
+WS99030110,GTC
+WS99030120,MS-CHAPv2
+WS99030130,CHAP
+WS99030140,MS-CHAP
+WS99030150,PAP
